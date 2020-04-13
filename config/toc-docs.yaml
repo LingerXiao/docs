@@ -1,14 +1,14 @@
 Setup:
   icon: "icon-wrench"
   pages:
-    setup/installation: "Installation"
-    setup/configuration: "Configuration"
+    setup/installation: "安装"
+    setup/configuration: "配置"
 
 CMS:
   icon: "icon-magic"
   pages:
-    cms/themes: "Themes"
-    cms/pages: "Pages"
+    cms/themes: "主题"
+    cms/pages: "页面"
     cms/partials: "Partials"
     cms/layouts: "Layouts"
     cms/content: "Content blocks"
@@ -26,12 +26,12 @@ AJAX:
     ajax/javascript-api: "JavaScript API"
     ajax/extras: "Extra features"
 
-Themes:
+主题:
   icon: "icon-picture"
   pages:
     themes/development: "Developing themes"
 
-Plugins:
+插件:
   icon: "icon-puzzle-piece"
   pages:
     plugin/registration: "Registration"
@@ -43,7 +43,7 @@ Plugins:
     plugin/scheduling: "Task scheduling"
     plugin/extending: "Extending plugins"
 
-Backend:
+后端:
   icon: "icon-desktop"
   pages:
     backend/controllers-ajax: "Controllers & AJAX"
@@ -57,7 +57,7 @@ Backend:
     backend/users: "Users & Permissions"
     ui: "User interface guide@"
 
-Database:
+数据库:
   icon: "icon-hdd"
   pages:
     database/basics: "Basic usage"
